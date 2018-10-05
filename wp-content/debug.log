@@ -1,0 +1,63 @@
+[18-Jul-2018 18:46:45 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 461
+[18-Jul-2018 18:46:45 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[18-Jul-2018 18:46:45 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[18-Jul-2018 18:46:45 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 463
+[18-Jul-2018 18:46:45 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 465
+[19-Jul-2018 04:20:20 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 461
+[19-Jul-2018 04:20:20 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[19-Jul-2018 04:20:20 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[19-Jul-2018 04:20:20 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 463
+[19-Jul-2018 04:20:20 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 465
+[19-Jul-2018 04:22:11 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 461
+[19-Jul-2018 04:22:11 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[19-Jul-2018 04:22:11 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 462
+[19-Jul-2018 04:22:11 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 463
+[19-Jul-2018 04:22:11 UTC] PHP Notice:  Undefined index: host in /var/www/wp_arg_sd_web/skydata/wp-includes/canonical.php on line 465
+[20-Jul-2018 08:18:49 UTC] PHP Warning:  require_once(/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[20-Jul-2018 08:18:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php' (include_path='.:/usr/share/php') in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[20-Jul-2018 08:18:49 UTC] PHP Warning:  require_once(/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[20-Jul-2018 08:18:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php' (include_path='.:/usr/share/php') in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[24-Jul-2018 12:30:58 UTC] PHP Warning:  require_once(/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[24-Jul-2018 12:30:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php' (include_path='.:/usr/share/php') in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[24-Jul-2018 12:30:58 UTC] PHP Warning:  require_once(/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[24-Jul-2018 12:30:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/var/www/wp_arg_sd_web/skydata/wp-includes/IXR/class-IXR-server.php' (include_path='.:/usr/share/php') in /var/www/wp_arg_sd_web/skydata/wp-includes/class-IXR.php on line 42
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 463
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 465
+[03-Oct-2018 05:12:59 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 463
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 465
+[03-Oct-2018 05:13:06 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 463
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 465
+[03-Oct-2018 05:13:37 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 462
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 461
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 463
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 465
+[03-Oct-2018 05:18:48 UTC] PHP Notice:  Undefined index: scheme in C:\xampp\htdocs\skydata\wp-includes\canonical.php on line 482
+[03-Oct-2018 05:36:31 UTC] PHP Parse error:  syntax error, unexpected '$country' (T_VARIABLE) in C:\xampp\htdocs\skydata\wp-content\themes\skydata\functions.php on line 251
+[03-Oct-2018 05:36:39 UTC] PHP Parse error:  syntax error, unexpected '$country' (T_VARIABLE) in C:\xampp\htdocs\skydata\wp-content\themes\skydata\functions.php on line 251
+[03-Oct-2018 05:36:44 UTC] PHP Parse error:  syntax error, unexpected '$country' (T_VARIABLE) in C:\xampp\htdocs\skydata\wp-content\themes\skydata\functions.php on line 251
+[05-Oct-2018 02:22:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\skydata\wp-includes\http.php on line 543
